@@ -1,9 +1,10 @@
 ---
 name: Bug Report
 about: report a bug
-title: '[Bug]'
-labels:
-  - bug
+title: "[Bug]"
+labels: bug
+assignees: ''
+
 ---
 
 ## What were you trying to install (or what else went wrong)?

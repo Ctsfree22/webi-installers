@@ -1,11 +1,10 @@
 ---
 name: New Installer
 about: Create a new installer for webinstall.dev
-title: '[Installer] Add CHANGE-ME'
-labels:
-  - 'good first issue'
-  - first-timers-only
-  - up-for-grabs
+title: "[Installer] Add CHANGE-ME"
+labels: good first issue
+assignees: ''
+
 ---
 
 # Add CHANGE-ME
